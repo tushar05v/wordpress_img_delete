@@ -1,0 +1,1 @@
+# wordpress_img_delete
